@@ -1,3 +1,4 @@
+#fibonnaci series
 a=int(input("Enter the terms"))
 b=0                                         
 c=1                                         
